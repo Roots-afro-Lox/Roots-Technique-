@@ -35,7 +35,7 @@ A professional website for Roots & Technique, specializing in premium afro locs 
 
 ### 3. Update Contact Information
 Replace the WhatsApp number in the HTML:
-- Current: `https://wa.me/27600000000`
+- Current: `https://wa.me/27672558552
 - Update to your actual number in `index.html`
 
 ## 📝 Customization
